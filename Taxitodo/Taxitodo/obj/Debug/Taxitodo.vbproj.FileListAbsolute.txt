@@ -1,0 +1,11 @@
+C:\Taxitodo\Taxitodo\Taxitodo\bin\Taxitodo.dll.config
+C:\Taxitodo\Taxitodo\Taxitodo\bin\Taxitodo.dll
+C:\Taxitodo\Taxitodo\Taxitodo\bin\Taxitodo.pdb
+C:\Taxitodo\Taxitodo\Taxitodo\bin\Taxitodo.xml
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.vbprojAssemblyReference.cache
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.Resources.resources
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.vbproj.GenerateResource.cache
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.vbproj.CoreCompileInputs.cache
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.dll
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.xml
+C:\Taxitodo\Taxitodo\Taxitodo\obj\Debug\Taxitodo.pdb
